@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: flask-whisper
+    name: fastapi-whisper
     runtime: python
     plan: free
     autoDeploy: false
